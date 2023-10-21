@@ -13,3 +13,6 @@ Counter-Strike 2 configuration files.
 
 ## Auto start
 1. Add `+exec autoexec.cfg` to Counter-Strike 2 launch options
+
+## Useful links
+- [Keycode list](https://steamcommunity.com/sharedfiles/filedetails/?id=2498088800)
