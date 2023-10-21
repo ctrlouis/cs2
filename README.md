@@ -2,7 +2,6 @@
 Counter-Strike 2 configuration files.
 
 # Features
-
 | Action    | Key  | 
 | :---      | ---: |
 | Jumpthrow | n    |
